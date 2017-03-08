@@ -1,6 +1,8 @@
 # InternetSpeedTest
 Internet Speed Test
 
+# Install the Package
+    pip install pyspeedtest
 # Running the Script
     python speed_test.py
 
